@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862654890917",
+    "project_id": "mystore-9e65b",
+    "storage_bucket": "mystore-9e65b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862654890917:android:583c43a1629a18b9bf5e4c",
+        "android_client_info": {
+          "package_name": "com.example.newstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862654890917-qk696eqoonq3o0ajvb6f6b20d072eejl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrjgxrJ8rumzB98D5hihzQsP1iPuE2wxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862654890917-qk696eqoonq3o0ajvb6f6b20d072eejl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
